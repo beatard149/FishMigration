@@ -1,0 +1,119 @@
+Fish Species ARIMA Models Training Report
+Generated on: 2024-11-18 04:09:36
+================================================================================
+
+Total species processed: 8
+Successfully trained: 7
+Failed: 1
+
+
+Species: Dicentrarchus labrax
+----------------------------------------
+Status: Success
+Data points: 1144
+Training date: 2024-11-18 04:09:17.485533
+Historical Stats:
+  lat_mean: 49.32105316572411
+  lat_std: 2.7121298612480067
+  lat_range: (45.69976666666666, 57.709)
+  lon_mean: -2.4533140545364533
+  lon_std: 4.164891227785057
+  lon_range: (-6.0547, 10.7751)
+  last_date: 2020-11-01 00:00:00
+
+
+Species: Mullus surmuletus
+----------------------------------------
+Status: Success
+Data points: 2128
+Training date: 2024-11-18 04:09:20.335104
+Historical Stats:
+  lat_mean: 52.21034722601315
+  lat_std: 3.6493091424599826
+  lat_range: (45.89098235294118, 57.3547)
+  lon_mean: 3.58990749559842
+  lon_std: 7.769278491237307
+  lon_range: (-8.350141666666667, 15.3228)
+  last_date: 2020-12-01 00:00:00
+
+
+Species: Oncorhynchus keta
+----------------------------------------
+Status: Success
+Data points: 2030
+Training date: 2024-11-18 04:09:23.017940
+Historical Stats:
+  lat_mean: 55.84840739721003
+  lat_std: 2.6246331345295366
+  lat_range: (51.24833, 61.99125)
+  lon_mean: -78.10756930879968
+  lon_std: 141.0294745893293
+  lon_range: (-178.44501, 179.27833)
+  last_date: 2019-07-26 00:00:00
+
+
+Species: Pagrus pagrus
+----------------------------------------
+Status: Success
+Data points: 564
+Training date: 2024-11-18 04:09:25.435282
+Historical Stats:
+  lat_mean: 29.630409977620104
+  lat_std: 2.9871377639646113
+  lat_range: (25.6173333333333, 49.721066666666665)
+  lon_mean: -84.93302755048674
+  lon_std: 15.432739017810857
+  lon_range: (-96.8491666666667, 0.07643333333333335)
+  last_date: 2020-11-22 00:00:00
+
+
+Species: Sparus aurata
+----------------------------------------
+Status: Success
+Data points: 48
+Training date: 2024-11-18 04:09:30.126668
+Historical Stats:
+  lat_mean: 46.63963453266393
+  lat_std: 2.4025390740093964
+  lat_range: (44.0964, 56.5237)
+  lon_mean: -0.8792558551299535
+  lon_std: 2.807173860749514
+  lon_range: (-3.9438, 12.5193)
+  last_date: 2019-11-01 00:00:00
+
+
+Species: Sprattus sprattus
+----------------------------------------
+Status: Success
+Data points: 8668
+Training date: 2024-11-18 04:09:34.457707
+Historical Stats:
+  lat_mean: 55.34529957477002
+  lat_std: 1.562757027121566
+  lat_range: (46.1362375, 57.524311764705885)
+  lon_mean: 13.775847411813722
+  lon_std: 5.004423802966021
+  lon_range: (-7.486646153846154, 21.188517647058823)
+  last_date: 2020-12-01 00:00:00
+
+
+Species: Trachurus trachurus
+----------------------------------------
+Status: Success
+Data points: 6608
+Training date: 2024-11-18 04:09:36.381878
+Historical Stats:
+  lat_mean: 53.42438506579086
+  lat_std: 2.820733802694229
+  lat_range: (45.810584210526315, 57.5675)
+  lon_mean: 6.473042908222553
+  lon_std: 8.329196366229525
+  lon_range: (-8.49097358490566, 16.136657142857143)
+  last_date: 2020-12-01 00:00:00
+
+
+Species: Oncorhynchus mykiss
+----------------------------------------
+Status: Failed
+Error: Training failed
+
